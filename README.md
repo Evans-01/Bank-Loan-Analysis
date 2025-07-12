@@ -6,7 +6,7 @@ This repository presents a detailed summary and overview of a bank loan dataset 
 
 ## 🧾 Summary Dashboard
 
-![Summary Dashboard](./project-1.png) <!-- Replace with actual image path if needed -->
+![Summary Dashboard](https://github.com/Evans-01/Bank-Loan-Analysis/blob/49bab5d662a5625882a14058ed0011b22aae90ea/Bank%20Loan%20Report%20Overview.png) <!-- Replace with actual image path if needed -->
 
 ### 🔹 Key Metrics:
 - **Total Loan Applications:** 38.6K  
@@ -52,7 +52,7 @@ This repository presents a detailed summary and overview of a bank loan dataset 
 
 ## 📈 Overview Dashboard
 
-![Overview Dashboard](./Screenshot%202025-07-12%20113641.png) <!-- Replace with actual image path if needed -->
+![Overview Dashboard](https://github.com/Evans-01/Bank-Loan-Analysis/blob/49bab5d662a5625882a14058ed0011b22aae90ea/Bank%20Loan%20Report%20Overview.png) <!-- Replace with actual image path if needed -->
 
 ### 🔹 Trends and Distributions
 
